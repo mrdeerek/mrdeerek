@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Chatbot-AI](https://github.com/mrdeerek/Chatbot-AI.git)
+- 🔭 I’m currently working on [Weather Monitoring System](https://github.com/mrdeerek/weather-monitoring-app)
 
 - 🌱 I’m currently learning **React js**
 
