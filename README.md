@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Weather Monitoring System](https://github.com/mrdeerek/weather-monitoring-app)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Three js**
 
 - 👯 I’m looking to collaborate on **frontend project**
 
